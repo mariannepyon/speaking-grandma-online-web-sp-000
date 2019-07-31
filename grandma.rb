@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(say)
- if say == 
+ if say == ""
    puts "HUH?! SPEAK UP, SONNY!"
  elsif say.upcase
    puts "NO, NOT SINCE 1938!"
